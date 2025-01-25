@@ -30,7 +30,7 @@ function About() {
           growing, learning, and contributing to impactful projects.
         </p>
         <a
-          href="https://drive.google.com/file/d/1i_q4LhxLMsfAmquRTOKKlJBD2l26Q0er/view?usp=sharing"
+          href="https://drive.google.com/file/d/1i3R3uc5_ANwUxDIyignH_jvzPCqnpCOt/view"
           target="_blank"
           rel="noopener noreferrer"
           className="px-6 py-3 mt-6 font-semibold text-white transition-all duration-300 bg-green-500 rounded-lg shadow-lg hover:bg-green-600"
